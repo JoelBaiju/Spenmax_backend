@@ -1,0 +1,730 @@
+
+========== DELETION LOG (2025-02-10 15:16:19) ==========
+Company ID: 549
+Organization: hhgjhjhfjhj
+Owner: gjfj
+Email: testasdaf@gmail.com
+Website: 
+Mobile: 1231231232
+Branches (1):
+	Branch ID: 555, Name: hgjgfj, Location: hgjfgjhgj, fhjghjhj, Ernakulam, Kerela
+
+========== DELETION LOG (2025-02-10 15:24:46) ==========
+Company ID: 550
+Organization: test_company
+Owner: gjfj
+Email: testasdaf@gmail.com
+Website: 
+Mobile: 1231231232
+Branches (1):
+	Branch ID: 556, Name: hgjgfj, Location: hgjfgjhgj, fhjghjhj, Ernakulam, Kerela
+
+========== DELETION LOG (2025-02-10 15:27:16) ==========
+Company ID: 551
+Organization: test_company
+Owner: gjfj
+Email: testasdaf@gmail.com
+Website: 
+Mobile: 1231231232
+Branches (1):
+	Branch ID: 557, Name: hgjgfj, Location: hgjfgjhgj, fhjghjhj, Alappuzha, Kerela
+
+========== DELETION LOG (2025-02-10 15:35:13) ==========
+Company ID: 552
+Organization: test_company
+Owner: gjfj
+Email: testasdaf@gmail.com
+Website: 
+Mobile: 1231231232
+Branches (1):
+	Branch ID: 558, Name: hgjgfj, Location: hgjfgjhgj, fhjghjhj, Alappuzha, Kerela
+
+========== DELETION LOG (2025-02-12 05:52:09) ==========
+Company ID: 254
+Organization: apple restaurant
+Owner: aneesh suresh babu
+Email: aneeshsuresh@gmil.com
+Website: 
+Mobile: 9645158266
+Branches (1):
+	Branch ID: 260, Name: aneesh suresh babu, Location: venjaramoodu, venjaramoodu, Thrissur, Kerela
+
+========== DELETION LOG (2025-02-17 11:13:07) ==========
+Company ID: 571
+Organization: Lady Soul - Ladies Fitness Solutions and Beauty Clinic
+Owner: Ratheesh
+Email: ladysoulfitness@gmail.com
+Website: 
+Mobile: 9567909922
+Branches (1):
+	Branch ID: 577, Name: Ratheesh, Location: Peroorkada, Peroorkada, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-02-19 09:51:08) ==========
+Company ID: 603
+Organization: Vaisakham Big Bazaar
+Owner: Suresh Kumar
+Email: vaisakhambigbazar@gmail.com
+Website: 
+Mobile: 9846728925
+Branches (1):
+	Branch ID: 609, Name: Suresh Kumar, Location: Konni (Pathanamthitta), Konni (Pathanamthitta), Pathanamthitta, Kerela
+
+========== DELETION LOG (2025-03-01 10:13:22) ==========
+Company ID: 704
+Organization: dreams beauty parlour
+Owner: Anu
+Email: anusunil420@gmail.com
+Website: 
+Mobile: 9349737114
+Branches (1):
+	Branch ID: 710, Name: Anu, Location: kottayam, kottayam, Kottayam, Kerela
+
+========== DELETION LOG (2025-03-07 04:43:44) ==========
+Company ID: 331
+Organization: Kunnil Hypermarket
+Owner: manager
+Email: kunnil@gmail.com
+Website: 
+Mobile: 9847399911
+Branches (1):
+	Branch ID: 337, Name: manager, Location: Kowdiar, Kowdiar, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-03-14 05:23:49) ==========
+Company ID: 238
+Organization: Devanshi Boutique
+Owner: megha
+Email: meghaanujai@gmail.com
+Website: 
+Mobile: 6238265830
+Branches (1):
+	Branch ID: 244, Name: megha, Location: pothencode, pothencode, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-03-18 09:43:38) ==========
+Company ID: 900
+Organization: Protein Shoppe
+Owner: Aryah
+Email: proteinshoppeind@gmail.com
+Website: 
+Mobile: 8590834529
+Branches (1):
+	Branch ID: 906, Name: Aryah, Location: Edapally, Edapally, Ernakulam, Kerela
+
+========== DELETION LOG (2025-03-25 05:21:11) ==========
+Company ID: 1004
+Organization: Paris Beauty Parlou
+Owner: Sumila Morris
+Email: parisbeautyparlour@gmail.com
+Website: 
+Mobile: 9648464623
+Branches (1):
+	Branch ID: 1010, Name: Sumila Morris, Location: Alappuzha, Alappuzha, Alappuzha, Kerela
+
+========== DELETION LOG (2025-03-25 05:27:12) ==========
+Company ID: 1006
+Organization: Shimla Bakery
+Owner: Hashim
+Email: harshimumerkutty78@gmail.com
+Website: 
+Mobile: 9895752895
+Branches (1):
+	Branch ID: 1012, Name: Hashim, Location: Alappuzha, Alappuzha, Alappuzha, Kerela
+
+========== DELETION LOG (2025-03-25 05:56:02) ==========
+Company ID: 324
+Organization: Zene the Fashion Store and Boutique
+Owner: Anna Kabeer
+Email: annakabeer@gmail.com
+Website: 
+Mobile: 9746838282
+Branches (1):
+	Branch ID: 330, Name: Anna Kabeer, Location: pattom, pattom, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-03-25 08:43:20) ==========
+Company ID: 864
+Organization: zam zam Furniture
+Owner: Anas
+Email: anaskzamzam04@gmail.com
+Website: 
+Mobile: 9947120454
+Branches (1):
+	Branch ID: 870, Name: Anas, Location: venjaramoodu, venjaramoodu, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-03-26 05:48:35) ==========
+Company ID: 1117
+Organization: wood gallery furniture
+Owner: muhammed rashidh
+Email: woodgallery2021@gmail.com
+Website: 
+Mobile: 9995298194
+Branches (1):
+	Branch ID: 1123, Name: muhammed rashidh, Location: tharasserry (kozhikode), tharasserry (kozhikode), Kozhikode, Kerela
+
+========== DELETION LOG (2025-03-26 05:53:08) ==========
+Company ID: 1118
+Organization: leaf supermarket
+Owner: jamsheer
+Email: jamsheerpp1@gmail.com
+Website: 
+Mobile: 9656502997
+Branches (1):
+	Branch ID: 1124, Name: jamsheer, Location: tharasserry (kozhikode), tharasserry (kozhikode), Kozhikode, Kerela
+
+========== DELETION LOG (2025-03-26 06:01:22) ==========
+Company ID: 1119
+Organization: matha restuarant
+Owner: ratheesh
+Email: lathumatha@gmail.com
+Website: 
+Mobile: 9946466675
+Branches (1):
+	Branch ID: 1125, Name: ratheesh, Location: tharasserry (kozhikode), tharasserry (kozhikode), Kozhikode, Kerela
+
+========== DELETION LOG (2025-03-26 06:19:24) ==========
+Company ID: 1120
+Organization: KM supermarket
+Owner: zakkir hussain
+Email: kmsupermarket@gmail.com
+Website: 
+Mobile: 9745167070
+Branches (1):
+	Branch ID: 1126, Name: zakkir hussain, Location: tharasserry (kozhikode), tharasserry (kozhikode), Kozhikode, Kerela
+
+========== DELETION LOG (2025-03-26 06:27:49) ==========
+Company ID: 1121
+Organization: square deal agro
+Owner: m joseph
+Email: squaredealtsy@gmail.com
+Website: 
+Mobile: 9745855942
+Branches (1):
+	Branch ID: 1127, Name: m joseph, Location: tharasserry (kozhikode), tharasserry (kozhikode), Kozhikode, Kerela
+
+========== DELETION LOG (2025-03-26 06:31:27) ==========
+Company ID: 1122
+Organization: sulaikhas beauty clinic
+Owner: majeedh
+Email: pachoogroupo@gmail.com
+Website: 
+Mobile: 9846336396
+Branches (1):
+	Branch ID: 1128, Name: majeedh, Location: tharasserry (kozhikode), tharasserry (kozhikode), Kozhikode, Kerela
+
+========== DELETION LOG (2025-03-26 06:41:21) ==========
+Company ID: 1123
+Organization: multi store(footwear)
+Owner: shahbas
+Email: multistoreinfo@gmail.om
+Website: 
+Mobile: 7510759039
+Branches (1):
+	Branch ID: 1129, Name: shahbas, Location: tharasserry (kozhikode), tharasserry (kozhikode), Kozhikode, Kerela
+
+========== DELETION LOG (2025-03-26 06:43:10) ==========
+Company ID: 1124
+Organization: mefryl boutique
+Owner: muhammed
+Email: mefrylboutique@gmail.com
+Website: 
+Mobile: 6282421177
+Branches (1):
+	Branch ID: 1130, Name: muhammed, Location: tharasserry (kozhikode), tharasserry (kozhikode), Kozhikode, Kerela
+
+========== DELETION LOG (2025-03-26 10:30:08) ==========
+Company ID: 1149
+Organization: ufonix eletronis company
+Owner: Shaju
+Email: shaju.kr@ufonix.in
+Website: 
+Mobile: 9895382859
+Branches (1):
+	Branch ID: 1155, Name: Shaju, Location: Karaparamba, Karaparamba, Kozhikode, Kerela
+
+========== DELETION LOG (2025-04-07 10:12:09) ==========
+Company ID: 1252
+Organization: Cats Systems
+Owner: Nizamuddin
+Email: catssystems@hotmail.com
+Website: 
+Mobile: 9995007613
+Branches (1):
+	Branch ID: 1258, Name: Nizamuddin, Location: Chenkottukonam, Chenkottukonam, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-10 11:56:57) ==========
+Company ID: 1289
+Organization: JoyofWomen
+Owner: nil
+Email: joyofwomen1@gmail.com
+Website: 
+Mobile: 8848441195
+Branches (1):
+	Branch ID: 1295, Name: nil, Location: Kaniyapuram, Kaniyapuram, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-10 11:57:13) ==========
+Company ID: 370
+Organization: Joy of Women Boutique
+Owner: SAFEERCH
+Email: jowboutiq@gmail.com
+Website: 
+Mobile: 8848441195
+Branches (1):
+	Branch ID: 376, Name: SAFEERCH, Location: Kaniyapuram, Kaniyapuram, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-15 09:32:20) ==========
+Company ID: 1210
+Organization: Neethi Medicals
+Owner: neethu
+Email: neethimedicals@gmail.com
+Website: 
+Mobile: 4712463039
+Branches (1):
+	Branch ID: 1216, Name: neethu, Location: manacaud, manacaud, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-15 09:35:58) ==========
+Company ID: 1211
+Organization: Anjali Bakery & Stores
+Owner: anjali
+Email: anjalibakerystores@gmail.com
+Website: 
+Mobile: 4712450692
+Branches (1):
+	Branch ID: 1217, Name: anjali, Location: manacaud, manacaud, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-15 09:45:15) ==========
+Company ID: 1212
+Organization: Grand Bakers
+Owner: gokul
+Email: grandbaker12s@gmail.com
+Website: 
+Mobile: 4712451766
+Branches (1):
+	Branch ID: 1218, Name: gokul, Location: manacaud, manacaud, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-15 09:53:17) ==========
+Company ID: 1213
+Organization: Triveni Supermarket
+Owner: tinu
+Email: trivenisupermarket@gmail.com
+Website: 
+Mobile: 4712465195
+Branches (1):
+	Branch ID: 1219, Name: tinu, Location: manacaud, manacaud, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-22 04:31:12) ==========
+Company ID: 1477
+Organization: Quality Supermarket
+Owner: nill
+Email: qualitysupermarket@gmail.com
+Website: 
+Mobile: 0472752619
+Branches (1):
+	Branch ID: 1483, Name: nill, Location: Kaniyapuram (Thiruvananthapuram), Kaniyapuram (Thiruvananthapuram), Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-22 04:32:08) ==========
+Company ID: 1238
+Organization: Homeo Medicals
+Owner: Hari
+Email: homeomedicals@gmail.com
+Website: 
+Mobile: 9961038029
+Branches (1):
+	Branch ID: 1244, Name: Hari, Location: Chirayinkeezhu, Chirayinkeezhu, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-22 04:32:25) ==========
+Company ID: 1488
+Organization: Viswas Community Medicals
+Owner: nill
+Email: viswascommunitypharmacy12@gmail.com
+Website: 
+Mobile: 9847016080
+Branches (1):
+	Branch ID: 1494, Name: nill, Location: Kaniyapuram (Thiruvananthapuram), Kaniyapuram (Thiruvananthapuram), Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-22 05:56:05) ==========
+Company ID: 383
+Organization: Parvathy medicals
+Owner: sreekumar
+Email: sreekumar@gmail.com
+Website: 
+Mobile: 9895094790
+Branches (1):
+	Branch ID: 389, Name: sreekumar, Location: kaniyapuram, Kaniyapuram, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-22 06:09:30) ==========
+Company ID: 1291
+Organization: MN Automobiles
+Owner: Mohan
+Email: mnautomobiles@gmail.com
+Website: 
+Mobile: 9544232923
+Branches (1):
+	Branch ID: 1297, Name: Mohan, Location: Kaniyapuram, Kaniyapuram, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-22 06:18:35) ==========
+Company ID: 1294
+Organization: Assured Motors Multi Brand Two Wheeler Sale and Service Centre
+Owner: Ashik
+Email: assuredmotors@gmail.com
+Website: 
+Mobile: 9048000330
+Branches (1):
+	Branch ID: 1300, Name: Ashik, Location: Kaniyapuram, Kaniyapuram, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-23 05:34:43) ==========
+Company ID: 1597
+Organization: DME Jaanakiees
+Owner: Dinesh Menon
+Email: dmejaanakees@gmail.com
+Website: 
+Mobile: 9746729561
+Branches (1):
+	Branch ID: 1603, Name: Dinesh Menon, Location: Pettah, Pettah, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-23 08:59:02) ==========
+Company ID: 1086
+Organization: Sree Mahadeva Traders
+Owner: Siva Kumar
+Email: sivan29991981@gmail.com
+Website: 
+Mobile: 8113030875
+Branches (1):
+	Branch ID: 1092, Name: Siva Kumar, Location: Kilimanoor, Kilimanoor, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-24 04:56:16) ==========
+Company ID: 1353
+Organization: AP Medicals
+Owner: Amal
+Email: apmedicals@gmail.com
+Website: 
+Mobile: 4712596689
+Branches (1):
+	Branch ID: 1359, Name: Amal, Location: Sreekariyam (Thiruvananthapuram), Sreekariyam (Thiruvananthapuram), Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-25 05:23:58) ==========
+Company ID: 1621
+Organization: A.S. Shoes
+Owner: Arun
+Email: asshoes@gmail.com
+Website: 
+Mobile: 9037824567
+Branches (1):
+	Branch ID: 1627, Name: Arun, Location: Pettah, Pettah, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-25 05:32:40) ==========
+Company ID: 534
+Organization: ThanveerShoes
+Owner: Hidayathullah
+Email: hidayathullahthanv@gmail.com
+Website: 
+Mobile: 9496166205
+Branches (1):
+	Branch ID: 540, Name: Hidayathullah, Location: Vazhuthacaud, Vazhuthacaud, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-04-26 04:35:28) ==========
+Company ID: 270
+Organization: MJ mobiles
+Owner: mj thadh
+Email: mjmobiles@gamil.com
+Website: 
+Mobile: 8943599971
+Branches (1):
+	Branch ID: 276, Name: mj thadh, Location: attingal, attingal, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-05-01 06:19:33) ==========
+Company ID: 1601
+Organization: Timoraah Boutique
+Owner: Thasni
+Email: timoraahboutique@gmail.com
+Website: 
+Mobile: 9446558293
+Branches (1):
+	Branch ID: 1607, Name: Thasni, Location: Pettah, Pettah, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-05-01 06:21:05) ==========
+Company ID: 1602
+Organization: Vintage Blossom
+Owner: Vineetha
+Email: vintageblossom@gmail.com
+Website: 
+Mobile: 6238931660
+Branches (1):
+	Branch ID: 1608, Name: Vineetha, Location: Pettah, Pettah, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-05-02 06:29:28) ==========
+Company ID: 1744
+Organization: Minnus Beauty Saloon and Botique
+Owner: Nisha Jospeh
+Email: minnusbeautyparlour@gmail.com
+Website: 
+Mobile: 7902793061
+Branches (1):
+	Branch ID: 1750, Name: Nisha Jospeh, Location: Alakode, Alakode, Kannur, Kerela
+
+========== DELETION LOG (2025-05-02 09:02:35) ==========
+Company ID: 1874
+Organization: MELISMA FANCY
+Owner: Mohini
+Email: melismafancy@gmail.com
+Website: 
+Mobile: 9446771013
+Branches (1):
+	Branch ID: 1880, Name: Mohini, Location: Karuvanchal, Karuvanchal, Kannur, Kerela
+
+========== DELETION LOG (2025-05-03 06:47:46) ==========
+Company ID: 756
+Organization: Kunnil Hypermarket
+Owner: Shanavas
+Email: kunnilhypermarket@gmail.com
+Website: 
+Mobile: 9744451151
+Branches (1):
+	Branch ID: 762, Name: Shanavas, Location: Kulathoor, Kulathoor, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-05-05 11:39:03) ==========
+Company ID: 1341
+Organization: Fair and Hair Beauty Parlour Bridal Makeup and Boutique
+Owner: Geetha
+Email: fairandhairbeautyparlour@gmail.com
+Website: 
+Mobile: 9496088015
+Branches (1):
+	Branch ID: 1347, Name: Geetha, Location: Sreekariyam (Thiruvananthapuram), Sreekariyam (Thiruvananthapuram), Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-05-06 09:32:16) ==========
+Company ID: 1847
+Organization: Chamayam Footwear
+Owner: Chandrakumar
+Email: chamayamfootwear@gmail.com
+Website: 
+Mobile: 9446838635
+Branches (1):
+	Branch ID: 1853, Name: Chandrakumar, Location: Alakkode, Alakkode, Kannur, Kerela
+
+========== DELETION LOG (2025-05-07 06:12:12) ==========
+Company ID: 403
+Organization: Viswas community pharmacy
+Owner: NA
+Email: viswaspettah@gmail.com
+Website: 
+Mobile: 4714019175
+Branches (1):
+	Branch ID: 409, Name: NA, Location: Pettah, Pettah, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-05-07 08:51:34) ==========
+Company ID: 1994
+Organization: Ponnoos Fancy
+Owner: Sidique
+Email: ponnoosfancy@gmail.com
+Website: 
+Mobile: 9895928104
+Branches (1):
+	Branch ID: 2000, Name: Sidique, Location: Kizhakkethala, Kizhakkethala, Malappuram, Kerela
+
+========== DELETION LOG (2025-05-20 07:55:06) ==========
+Company ID: 490
+Organization: elite mobiles
+Owner: nandhu mohan
+Email: elitemobiles2017@gmail.com
+Website: 
+Mobile: 8089092009
+Branches (1):
+	Branch ID: 496, Name: nandhu mohan, Location: cheerankavu(kollam), cheerankavu(kollam), Kollam, Kerela
+
+========== DELETION LOG (2025-06-04 05:07:26) ==========
+Company ID: 2249
+Organization: New Orchard Supermarket
+Owner: Vinod Dennis
+Email: vinoddennis1@gmail.com
+Website: 
+Mobile: 8075920173
+Branches (1):
+	Branch ID: 2255, Name: Vinod Dennis, Location: Kazhakoottam, Kazhakoottam, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-06-04 11:49:47) ==========
+Company ID: 2322
+Organization: Kerala bakery
+Owner: kannan
+Email: homeomedicals@gmail.com
+Website: 
+Mobile: 9745479062
+Branches (1):
+	Branch ID: 2328, Name: kannan, Location: Kaniyapuram, Kaniyapuram, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-06-07 05:53:24) ==========
+Company ID: 2251
+Organization: Swami Restaurant
+Owner: Swami
+Email: swamirestaurant@gmail.com
+Website: 
+Mobile: 8883188666
+Branches (1):
+	Branch ID: 2257, Name: Swami, Location: Kazhakoottam, Kazhakoottam, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-06-09 06:03:44) ==========
+Company ID: 2294
+Organization: New Style Footwear
+Owner: nill
+Email: newstylefootwear@gmail.com
+Website: 
+Mobile: 8921260082
+Branches (1):
+	Branch ID: 2300, Name: nill, Location: Kallara, Kallara, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-06-17 08:49:34) ==========
+Company ID: 2342
+Organization: O2 Oxygen (gym)
+Owner: nill
+Email: jrsupermarket123@gmail.com
+Website: 
+Mobile: 7907076368
+Branches (1):
+	Branch ID: 2348, Name: nill, Location: Kaniyapuram (Thiruvananthapuram), Kaniyapuram (Thiruvananthapuram), Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-07-09 10:31:18) ==========
+Company ID: 2272
+Organization: Purple Boutique
+Owner: Prejitha
+Email: purpleboutique456@gmail.com
+Website: 
+Mobile: 9495967205
+Branches (1):
+	Branch ID: 2278, Name: Prejitha, Location: Kilimanoor, Kilimanoor, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-07-09 10:35:54) ==========
+Company ID: 2274
+Organization: Milana Textiles
+Owner: Meenu
+Email: milanatextiles@gmail.com
+Website: 
+Mobile: 8086056830
+Branches (1):
+	Branch ID: 2280, Name: Meenu, Location: Kilimanoor, Kilimanoor, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-07-11 06:47:53) ==========
+Company ID: 2260
+Organization: Nizcom Car Accessories
+Owner: Nizam
+Email: nizcomcaraccesories@gmail.com
+Website: 
+Mobile: 9746182242
+Branches (1):
+	Branch ID: 2266, Name: Nizam, Location: Kazhakoottam, Kazhakoottam, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-07-19 06:08:22) ==========
+Company ID: 2566
+Organization: Stepz - Ladies Fitness Centre
+Owner: Jessy
+Email: stepzladiesfitness@gmail.com
+Website: 
+Mobile: 7306592564
+Branches (1):
+	Branch ID: 2572, Name: Jessy, Location: Nalanchira, Nalanchira, Kollam, Kerela
+
+========== DELETION LOG (2025-07-19 06:17:57) ==========
+Company ID: 2569
+Organization: Impulse family helth club
+Owner: Akhil
+Email: akhilmohanan59@gmail.com
+Website: 
+Mobile: 9656760056
+Branches (1):
+	Branch ID: 2575, Name: Akhil, Location: maruthoor,mannamthala, mannamthala, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-07-19 06:43:29) ==========
+Company ID: 2580
+Organization: V.R.FURNISHING
+Owner: Vibu
+Email: vrfurnishing@gmail.com
+Website: 
+Mobile: 9995153140
+Branches (1):
+	Branch ID: 2586, Name: Vibu, Location: Menamkulam, Menamkulam, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-07-19 06:46:44) ==========
+Company ID: 2562
+Organization: Welcare Fitness Equipment
+Owner: Renjith
+Email: renjithpadiyanam63@gmail.com
+Website: 
+Mobile: 9495621424
+Branches (1):
+	Branch ID: 2568, Name: Renjith, Location: Nalanchira, Nalanchira, Kollam, Kerela
+
+========== DELETION LOG (2025-07-21 08:36:41) ==========
+Company ID: 2694
+Organization: Mennakshy Nethralaya clinic
+Owner: Rajeev
+Email: mail@meenakshy.in
+Website: 
+Mobile: 9645011222
+Branches (1):
+	Branch ID: 2700, Name: Rajeev, Location: Haripad, Haripad, Alappuzha, Kerela
+
+========== DELETION LOG (2025-07-23 11:42:45) ==========
+Company ID: 2761
+Organization: Soundarya Textiles(Parippally)
+Owner: Jalaluddin
+Email: soundaryatextiles1@gmail.com
+Website: 
+Mobile: 9446212626
+Branches (1):
+	Branch ID: 2767, Name: Jalaluddin, Location: Parippally, Parippally, Kollam, Kerela
+
+========== DELETION LOG (2025-07-24 08:00:02) ==========
+Company ID: 2777
+Organization: Neethi Medical Store
+Owner: Pramod
+Email: affscb@gmail.com
+Website: 
+Mobile: 9447902623
+Branches (1):
+	Branch ID: 2783, Name: Parmod, Location: Pothencode, Pothencode, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-07-24 08:23:42) ==========
+Company ID: 2396
+Organization: Dimos Furniture
+Owner: Biju
+Email: dimosfurniture@gmail.com
+Website: 
+Mobile: 7593878784
+Branches (1):
+	Branch ID: 2402, Name: Biju, Location: kallambalam, kallambalam, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-07-24 09:14:46) ==========
+Company ID: 2783
+Organization: J square mobile
+Owner: Rahul
+Email: rahulmohan235@gmail.com
+Website: 
+Mobile: 9388666661
+Branches (1):
+	Branch ID: 2789, Name: Rahul, Location: Sreekaryam, Sreekaryam, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-07-31 05:13:49) ==========
+Company ID: 2778
+Organization: Neethi Medical Store
+Owner: Pramod
+Email: affscb@gmail.com
+Website: 
+Mobile: 9447902623
+Branches (1):
+	Branch ID: 2784, Name: Pramod, Location: Pothencode, Pothencode, Thiruvananthapuram, Kerela
+
+========== DELETION LOG (2025-07-31 05:14:05) ==========
+Company ID: 2681
+Organization: Dimos furniture(pazayattinkuzhi)
+Owner: Biju
+Email: dimosfurniture1@gmail.com
+Website: 
+Mobile: 7593878784
+Branches (1):
+	Branch ID: 2687, Name: Biju, Location: Pazayattinkuzhi, Pazayattinkuzhi, Kollam, Kerela
+
+========== DELETION LOG (2025-07-31 05:14:23) ==========
+Company ID: 2684
+Organization: Dimos furniture(Karunagapalli)
+Owner: Biju
+Email: dimosfurniture2@gmail.com
+Website: 
+Mobile: 7593878784
+Branches (1):
+	Branch ID: 2690, Name: Biju, Location: Karungapalli, Karungapalli, Kollam, Kerela

@@ -1,0 +1,6 @@
+**/migrations
+myenv
+db.sqlite3
+docker-compose.yml
+.gitignore
+media/*

@@ -1,0 +1,760 @@
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:32:03) ==========
+Customer ID: 5947266
+Name: Test User
+Email: test@gmail.com
+DOB: 2024-05-05
+Address: jkgjhs, Ernakulam, Kerela, India - 12345
+Phone: 8564795231
+Join Date: 2024-05-07
+Linked User: 4
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:32:11) ==========
+Customer ID: 7856324
+Name: Nikhil Rakesh
+Email: nikhil@gmail.com
+DOB: 2022-12-11
+Address: Rakesh bhavan uliyakovil kollam, Kollam, Kerala, India - 691011
+Phone: 8891268078
+Join Date: 2024-12-10
+Linked User: 7
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:33:06) ==========
+Customer ID: 2375627
+Name: dsds
+Email: None
+DOB: 2024-12-17
+Address: dfdfdf, Bāsār, Arunachal Pradesh, 🇮🇳    India - 14512
+Phone: 78945630
+Join Date: 2024-12-17
+Linked User: 217
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:33:19) ==========
+Customer ID: 7501870
+Name: hhjhh
+Email: None
+DOB: 2024-12-17
+Address: 1231, Chandigarh, Chandigarh, 🇮🇳    India - 1223456
+Phone: 789878
+Join Date: 2024-12-17
+Linked User: 218
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:33:50) ==========
+Customer ID: 2602795
+Name: Nithin Pramod
+Email: nithinpramod90@gmail.com
+DOB: 2005-09-26
+Address: Kollam,kerala,india, Kollam, Kerela, India - 691011
+Phone: 7034730964
+Join Date: 2024-12-15
+Linked User: 20
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:36:31) ==========
+Customer ID: 7926659
+Name: test
+Email: teffst@gmail.com
+DOB: 2024-12-25
+Address: jnjfjf,kljk, Chandigarh, Chandigarh, India - 789456125
+Phone: 78945612378
+Join Date: 2024-12-19
+Linked User: 229
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:37:01) ==========
+Customer ID: 3138678
+Name: hsfd
+Email: sdf@gmail.com
+DOB: 2024-12-20
+Address: fkfkjkf, Arāria, Bihar, 🇮🇳    India - 4456456
+Phone: 7894561230
+Join Date: 2024-12-19
+Linked User: 228
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:39:13) ==========
+Customer ID: 7308946
+Name: test11
+Email: test11@gmail.com
+DOB: 2025-01-08
+Address: address, Alappuzha, Kerela, India - 265894
+Phone: 6381590321
+Join Date: 2025-01-23
+Linked User: 446
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:42:45) ==========
+Customer ID: 2209206
+Name: test@nikhil
+Email: nikhilappu112@gmail.com
+DOB: 2025-01-20
+Address: kollam, Barpeta Road, Assam, India - 123456
+Phone: 8891268078
+Join Date: 2025-01-20
+Linked User: 414
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:43:34) ==========
+Customer ID: 8158758
+Name: hdhd
+Email: hdh@gmail.com
+DOB: 2009-01-08
+Address: vshhd, Kollam, Kerala, India - 123456
+Phone: 456456456
+Join Date: 2025-01-08
+Linked User: 345
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:44:35) ==========
+Customer ID: 1089594
+Name: bb
+Email: b@gmail.com
+DOB: 2025-01-08
+Address: a, Thiruvananthapuram, Kerala, India - 69889
+Phone: 7777777777
+Join Date: 2025-01-08
+Linked User: 346
+
+========== CUSTOMER DELETION LOG (2025-02-10 14:44:39) ==========
+Customer ID: 9403300
+Name: Q
+Email: q@gmail.com
+DOB: 2025-01-08
+Address: q, Thiruvananthapuram, Kerala, India - 695589
+Phone: 1111111111
+Join Date: 2025-01-08
+Linked User: 348
+
+========== CUSTOMER DELETION LOG (2025-02-12 04:48:22) ==========
+Customer ID: 9621555
+Name: Malini Sanal
+Email: None
+DOB: 1991-08-24
+Address: Malini House, Attinkuzhi, Kazhakuttom P O, Thiruvananthapuram, Thiruvananthapuram, Kerela, India - 695582
+Phone: 8089333432
+Join Date: 2024-12-11
+Linked User: 10
+
+========== CUSTOMER DELETION LOG (2025-02-12 04:48:37) ==========
+Customer ID: 3122781
+Name: Anju
+Email: None
+DOB: 1995-05-18
+Address: Kizhakkekara Kara puthen veedu, Thiruvananthapuram, Kerela, India - 695313
+Phone: 9539654531
+Join Date: 2024-12-11
+Linked User: 11
+
+========== CUSTOMER DELETION LOG (2025-02-12 05:53:02) ==========
+Customer ID: 7086427
+Name: Anusmitha A S
+Email: anuanaswar84@gmail.com
+DOB: 1995-05-05
+Address: Ragesh bhavan, Cheruvakkal (po), Ayoor, Kollam, 695133, Kollam, Kerela, India - 691533
+Phone: 9605860360
+Join Date: 2025-02-08
+Linked User: 817
+
+========== CUSTOMER DELETION LOG (2025-02-12 07:47:29) ==========
+Customer ID: 1352898
+Name: MANIKANTAN R
+Email: manikantan@gmail.com
+DOB: 1968-12-01
+Address: PHOENIX, KARYAVATTOM, KARYAVATTOM P.O., THIRUVANANTHAPURAM 695581, Thiruvananthapuram, Kerela, India - 695581
+Phone: 9446334628
+Join Date: 2025-02-12
+Linked User: 882
+
+========== CUSTOMER DELETION LOG (2025-02-13 09:23:49) ==========
+Customer ID: 7194738
+Name: AKSHAYA VK
+Email: None
+DOB: 1998-04-15
+Address: PG FOR WOMEN,PALACE VIEW ROAD,POOJAPURA, Ernakulam, Kerela, India - 695012
+Phone: 9447589988
+Join Date: 2024-12-11
+Linked User: 16
+
+========== CUSTOMER DELETION LOG (2025-02-17 11:17:37) ==========
+Customer ID: 4048857
+Name: Santhi B
+Email: santhibinu08@gmail.com
+DOB: 1985-05-05
+Address: Makayiram, Karavaram po  Karavaram, Thrissur, Kerela, India - 695605
+Phone: 9847288009
+Join Date: 2025-02-12
+Linked User: 887
+
+========== CUSTOMER DELETION LOG (2025-02-18 08:22:07) ==========
+Customer ID: 2107236
+Name: burhana
+Email: burhanabadhusha2001@gmail.com
+DOB: 2001-09-23
+Address: manikkamvilakam,poonthura, Trivandrum, Thiruvananthapuram, Kerala, India - 695026
+Phone: 9207196813
+Join Date: 2025-02-13
+Linked User: 890
+
+========== CUSTOMER DELETION LOG (2025-02-19 09:38:27) ==========
+Customer ID: 5556682
+Name: Ajayanath. P
+Email: ajayanathppcd@gmail.com
+DOB: 1964-05-28
+Address: Puthuval puthenveedu, A. K nagar, chempazhanthy, Thiruvananthapuram, Kerela, India - 695587
+Phone: 7012204557
+Join Date: 2025-02-17
+Linked User: 919
+
+========== CUSTOMER DELETION LOG (2025-02-21 08:39:48) ==========
+Customer ID: 9395424
+Name: Afila Renjith
+Email: afilarenjith5@gmail.com
+DOB: 1991-12-10
+Address: Rajesh Vihar , Puthenthope , 695586, Thiruvananthapuram, Kerela, India - 695586
+Phone: 6238 686 411
+Join Date: 2025-02-20
+Linked User: 977
+
+========== CUSTOMER DELETION LOG (2025-02-27 03:46:01) ==========
+Customer ID: 6444974
+Name: Archa Krishna B S
+Email: snehaaneesh27@gmail.com
+DOB: 2000-04-28
+Address: 1B, Artech Deepam, Thoppil lane, Arashumoodu, Anayara, Thiruvananthapuram, Kerela, India - 695029
+Phone: 8593027881
+Join Date: 2025-02-27
+Linked User: 1002
+
+========== CUSTOMER DELETION LOG (2025-03-03 04:54:08) ==========
+Customer ID: 7682836
+Name: Rejani. T. R
+Email: rejanitrmanoj2003@gmail.com
+DOB: 1978-05-25
+Address: :Anayara, Thiruvananthapuram, Kerela, India - 695029
+Phone: 8089900112
+Join Date: 2025-02-27
+Linked User: 1006
+
+========== CUSTOMER DELETION LOG (2025-03-08 06:46:10) ==========
+Customer ID: 2217107
+Name: abhay
+Email: auabhay5@gmail.com
+DOB: 2003-02-09
+Address: moozhimel veedu moozhinada kattaikonam po, Thiruvananthapuram, Kerala, India - 695584
+Phone: 7907920748
+Join Date: 2025-02-15
+Linked User: 911
+
+========== CUSTOMER DELETION LOG (2025-04-05 05:57:38) ==========
+Customer ID: 2225395
+Name: Puneet Girdhar
+Email: tinotani@hotmail.com
+DOB: 1980-09-30
+Address: leelalayam kulathoor thiruvanathapuram, Thiruvananthapuram, Kerala, India - 695583
+Phone: 9811011740
+Join Date: 2025-04-04
+Linked User: 1789
+
+========== CUSTOMER DELETION LOG (2025-04-18 08:28:26) ==========
+Customer ID: 7010475
+Name: BALACHANDRU A
+Email: balachandru816@gmail.com
+DOB: 1999-12-25
+Address: killipalam, Thiruvananthapuram, Kerala, India - 695009
+Phone: 7736764669
+Join Date: 2025-04-11
+Linked User: 1907
+
+========== CUSTOMER DELETION LOG (2025-04-18 08:34:38) ==========
+Customer ID: 9334231
+Name: MAHADEVI S
+Email: balachandru817@gmail.com
+DOB: 1998-02-05
+Address: 70/355 DEVI BHAVAN MANACAUD PO, Thiruvananthapuram, Kerela, India - 695009
+Phone: 8807840237
+Join Date: 2025-04-18
+Linked User: 2062
+
+========== CUSTOMER DELETION LOG (2025-04-18 08:38:14) ==========
+Customer ID: 9456473
+Name: Balachandru
+Email: balachandru816@gmail.com
+DOB: 1998-02-05
+Address: 70/355 DEVI BHAVAN MANACAUD PO, Thiruvananthapuram, Kerela, India - 695009
+Phone: 8807840237
+Join Date: 2025-04-18
+Linked User: 2072
+
+========== CUSTOMER DELETION LOG (2025-04-23 06:04:36) ==========
+Customer ID: 5899466
+Name: Nija Raj
+Email: None
+DOB: 1998-01-09
+Address: Sopanam Pullanicode Edava Po, Thiruvananthapuram, Kerela, India - 695311
+Phone: 7594800060
+Join Date: 2024-12-16
+Linked User: 22
+
+========== CUSTOMER DELETION LOG (2025-05-05 10:07:12) ==========
+Customer ID: 5911044
+Name: Beemashaji
+Email: beemashaji269@gmail.com
+DOB: 2001-05-09
+Address: sunaina manzil kottumoola maithanam varkala, Varkala, Kerala, India - 695141
+Phone: 9656956628
+Join Date: 2025-03-20
+Linked User: 1481
+
+========== CUSTOMER DELETION LOG (2025-05-05 10:56:12) ==========
+Customer ID: 5238680
+Name: Swalika S
+Email: swalikasalam1610b@gmail.com
+DOB: 2002-02-10
+Address: vilayil veed vengod kudavoor p.o, Thiruvananthapuram, Kerala, India - 695313
+Phone: 9567049226
+Join Date: 2025-05-05
+Linked User: 2696
+
+========== CUSTOMER DELETION LOG (2025-05-08 06:34:43) ==========
+Customer ID: 9345361
+Name: Ananthu
+Email: 7034sreekuttan@gmail.com
+DOB: 1998-04-25
+Address: Ananthu nivas punavoor, Thiruvananthapuram, Kerala, India - 695512
+Phone: 7034128402
+Join Date: 2025-02-03
+Linked User: 702
+
+========== CUSTOMER DELETION LOG (2025-05-12 08:32:29) ==========
+Customer ID: 4378396
+Name: Sujin S S
+Email: sujinkichuz007@gmail.com
+DOB: 1995-04-10
+Address: Vilayilveedu,palamkonam,venjaramoodu, trivandrum, Thiruvananthapuram, Kerala, India - 695607
+Phone: 7736489369
+Join Date: 2025-05-10
+Linked User: 2849
+
+========== CUSTOMER DELETION LOG (2025-05-14 07:50:44) ==========
+Customer ID: 5385659
+Name: mahesh
+Email: goldenmahesh5@gmail.com
+DOB: 1980-09-20
+Address: kambikkakam house, Thiruvananthapuram, Kerala, India - 695021
+Phone: 9188285809
+Join Date: 2025-05-12
+Linked User: 2898
+
+========== CUSTOMER DELETION LOG (2025-05-14 07:59:09) ==========
+Customer ID: 3655621
+Name: sandhya
+Email: sandhya4parvathy@gmail.com
+DOB: 1991-05-28
+Address: Mannoor veed, Kollam, Kerala, India - 690561
+Phone: 9633739143
+Join Date: 2025-05-12
+Linked User: 2850
+
+========== CUSTOMER DELETION LOG (2025-05-15 09:06:18) ==========
+Customer ID: 2350826
+Name: Arun
+Email: arunas3570@gmail.com
+DOB: 1999-12-19
+Address: sooryabhavanam house attukal manacaud PO, Thiruvananthapuram, Kerala, India - 695009
+Phone: 7306113682
+Join Date: 2025-04-02
+Linked User: 1759
+
+========== CUSTOMER DELETION LOG (2025-05-15 09:07:40) ==========
+Customer ID: 5565805
+Name: Elizabeth Ejison Mayne
+Email: elizabethejison76@gmail.com
+DOB: 2000-12-25
+Address: Pt chacko nagar ulloor, Thiruvananthapuram, Kerala, India - 695004
+Phone: 6238496102
+Join Date: 2025-04-02
+Linked User: 1761
+
+========== CUSTOMER DELETION LOG (2025-05-15 09:08:28) ==========
+Customer ID: 3796907
+Name: AKHILA RAJENDREN. S
+Email: akhilashya60689@gmail.com
+DOB: 1992-07-16
+Address: KERA 75 KANNETTUMUKKU, Thiruvananthapuram, Kerala, India - 695014
+Phone: 8943461580
+Join Date: 2025-04-02
+Linked User: 1760
+
+========== CUSTOMER DELETION LOG (2025-05-15 09:16:09) ==========
+Customer ID: 3725263
+Name: Akshara s binu
+Email: aaksharaamal@gmail.com
+DOB: 2003-09-17
+Address: palavila puthen veedu thadikkadu po mathurappa anchal kollam, Kollam, Kerala, India - 691306
+Phone: 8714946564
+Join Date: 2025-04-02
+Linked User: 1758
+
+========== CUSTOMER DELETION LOG (2025-05-16 07:06:42) ==========
+Customer ID: 8489832
+Name: Name : MEENAKSHI.M. S
+Email: meenakshims992@gmail.com
+DOB: 2001-07-29
+Address: PARVATHY NILAYAM, KULACODE, VELLANAD. P. O, Thiruvananthapuram, Kerala, India - 695543
+Phone: 6235707135
+Join Date: 2025-05-15
+Linked User: 2989
+
+========== CUSTOMER DELETION LOG (2025-05-16 10:46:57) ==========
+Customer ID: 1107841
+Name: Gouri krishna A
+Email: gouri94krishna@gmail.com
+DOB: 2003-08-14
+Address: kaipurathil veedu, Pragathy nagar 48, kilikollur, Randamkutty, kollam, Kollam, Kerala, India - 691004
+Phone: 7012759182
+Join Date: 2025-05-10
+Linked User: 2824
+
+========== CUSTOMER DELETION LOG (2025-05-24 04:06:30) ==========
+Customer ID: 6587790
+Name: Heeba N S
+Email: heebashanavas@gmail.com
+DOB: 1997-09-11
+Address: Thadathil Veedu Kunnil Daivappura P O ,Palode, Thiruvananthapuram, Kerala, India - 695563
+Phone: 8848984439
+Join Date: 2025-05-16
+Linked User: 2993
+
+========== CUSTOMER DELETION LOG (2025-05-26 11:17:04) ==========
+Customer ID: 9300469
+Name: Ancy mariya
+Email: None
+DOB: 1999-09-29
+Address: Chanthavilakam poovar p.o, Thiruvananthapuram, Kerala, India - 695525
+Phone: 9746070639
+Join Date: 2024-12-17
+Linked User: 183
+
+========== CUSTOMER DELETION LOG (2025-05-26 11:17:07) ==========
+Customer ID: 8942407
+Name: Ajilal
+Email: ajilaljayaprakash85@gmail.com
+DOB: 1985-05-29
+Address: Nikunjam, Kollam, Kerala, India - 691020
+Phone: 9995222616
+Join Date: 2024-12-18
+Linked User: 225
+
+========== CUSTOMER DELETION LOG (2025-05-26 11:17:28) ==========
+Customer ID: 8315283
+Name: nijas
+Email: nijazn8@gmail.com
+DOB: 2002-03-13
+Address: Fathima manzil poykail thonnakkal.po, Thiruvananthapuram, Kerala, India - 695317
+Phone: 7025922439
+Join Date: 2025-04-28
+Linked User: 2436
+
+========== CUSTOMER DELETION LOG (2025-05-27 05:15:17) ==========
+Customer ID: 6505787
+Name: Rahul..rs
+Email: Rahulrsmon53089@gmail.com
+DOB: 1994-03-23
+Address: Punniya bhavan sivan covil road balaramapuram, Thiruvananthapuram, Kerela, India - 695501
+Phone: 8138099030
+Join Date: 2025-05-26
+Linked User: 3124
+
+========== CUSTOMER DELETION LOG (2025-05-31 04:20:08) ==========
+Customer ID: 7445228
+Name: Lekha Chandean
+Email: lekhachandran26@gmIl.com
+DOB: 1990-06-26
+Address: K.r kottage velamanoor, parippally, kollam, Thiruvananthapuram, Kerela, India - 691574
+Phone: 9605586726
+Join Date: 2025-05-28
+Linked User: 3135
+
+========== CUSTOMER DELETION LOG (2025-06-02 10:57:00) ==========
+Customer ID: 7702010
+Name: sona Ambili sasi
+Email: sonaambilys@gmail.com
+DOB: 1996-10-01
+Address: puthuvalil house, valiyakulam, udayamperoor po, ernakulam, Cochin, Kerala, India - 682307
+Phone: 8848356023
+Join Date: 2025-05-27
+Linked User: 3127
+
+========== CUSTOMER DELETION LOG (2025-06-06 04:21:01) ==========
+Customer ID: 5294238
+Name: Akhila L R
+Email: lrakhila74@gmail.com
+DOB: 2002-05-02
+Address: Arun nivas thalamannoor kakkanam marayamuttom P O, Neyyāttinkara, Kerala, India - 695124
+Phone: 8590154347
+Join Date: 2025-05-20
+Linked User: 3009
+
+========== CUSTOMER DELETION LOG (2025-06-09 05:04:53) ==========
+Customer ID: 7647492
+Name: Bibin
+Email: kcprakash2255@gmail.com
+DOB: 1990-09-12
+Address: libiya cottage kochuveli Tvm, Thiruvananthapuram, Kerela, India - 695021
+Phone: 9778247832
+Join Date: 2025-06-09
+Linked User: 3428
+
+========== CUSTOMER DELETION LOG (2025-06-09 09:45:17) ==========
+Customer ID: 6446679
+Name: Sreenath
+Email: nithu1345@gmail.com
+DOB: 1988-06-11
+Address: Puthankulangara H Attoor PO, Mullurkkara, Thrissur, Thrissur, Kerela, India - 680583
+Phone: 9846006160
+Join Date: 2025-06-09
+Linked User: 3432
+
+========== CUSTOMER DELETION LOG (2025-06-09 09:50:15) ==========
+Customer ID: 3062859
+Name: Sreenath
+Email: sreenath0j4u@gmail.com
+DOB: 1988-06-11
+Address: Puthankulangara H Attoor PO, Mullurkkara, Thrissu, THIRSSUR, Kerela, India - 680583
+Phone: 9846006160
+Join Date: 2025-06-09
+Linked User: 3435
+
+========== CUSTOMER DELETION LOG (2025-06-13 07:17:14) ==========
+Customer ID: 6418886
+Name: Vishnu
+Email: vishnusr023@gmail.com
+DOB: 2002-04-22
+Address: Ankalamman Kovil Street, Chalai, Thiruvananthapuram, Kerela, India - 695036
+Phone: 8075521136
+Join Date: 2025-01-14
+Linked User: 381
+
+========== CUSTOMER DELETION LOG (2025-06-18 08:53:53) ==========
+Customer ID: 8590225
+Name: kavya
+Email: kavya@gmail.com
+DOB: 1993-06-25
+Address: parkattt house  Thrissur,, Thrissur, Kerela, India - 679534
+Phone: 9656954611
+Join Date: 2025-06-18
+Linked User: 3590
+
+========== CUSTOMER DELETION LOG (2025-06-19 09:18:31) ==========
+Customer ID: 7440335
+Name: Greeshma.R
+Email: greeshmaabhi1006@gmail.com
+DOB: 1998-08-23
+Address: N.R.Nilayam,Kattayikonam.p.o, Thiruvananthapuram, Kerala, India - 695584
+Phone: 7907167108
+Join Date: 2025-06-07
+Linked User: 3416
+
+========== CUSTOMER DELETION LOG (2025-06-19 09:40:21) ==========
+Customer ID: 5786902
+Name: ajay
+Email: ajaysnair24@gmail.com
+DOB: 2003-03-23
+Address: padmasree kadukkakunnu Vinobanikethan, Thiruvananthapuram, Kerala, India - 695542
+Phone: 7306267021
+Join Date: 2025-06-16
+Linked User: 3549
+
+========== CUSTOMER DELETION LOG (2025-06-20 13:27:44) ==========
+Customer ID: 5761557
+Name: Siyad
+Email: siyadbasheer20@gmail.com
+DOB: 1994-09-12
+Address: Siyad manzil vinobanikethan p o, Nedumangād, Kerala, India - 695542
+Phone: 7907845323
+Join Date: 2025-06-19
+Linked User: 3603
+
+========== CUSTOMER DELETION LOG (2025-06-21 05:03:52) ==========
+Customer ID: 4262341
+Name: Ashmiraj ad
+Email: ashmiraj122@gmail.com
+DOB: 2001-06-02
+Address: anishma bhavan anjilivila tholadi Karakkonam po, Thiruvananthapuram, Kerala, India - 695504
+Phone: 9778247832
+Join Date: 2025-06-03
+Linked User: 3160
+
+========== CUSTOMER DELETION LOG (2025-06-21 08:45:40) ==========
+Customer ID: 5294686
+Name: Rajeesh m panikker
+Email: mrejeesh81@gmail.com
+DOB: 1986-10-11
+Address: Kuttarapilly Thayankary P O kandamkary Alappuzha, Alappuzha, Kerela, India - 689722
+Phone: 7025822094
+Join Date: 2025-06-21
+Linked User: 3612
+
+========== CUSTOMER DELETION LOG (2025-06-27 05:38:56) ==========
+Customer ID: 4632734
+Name: Anoop Sukumaran
+Email: anoopsreekuttan7@gmail.com
+DOB: 2002-01-16
+Address: Rajesh Bhavan mele puthukudi Veed kurumi Santhivila Nemom p.o kalliyoor, Thiruvananthapuram, Kerela, India - 695020
+Phone: 9526230495
+Join Date: 2025-06-27
+Linked User: 3658
+
+========== CUSTOMER DELETION LOG (2025-07-07 08:15:53) ==========
+Customer ID: 9845676
+Name: Mohammed sabique
+Email: sabimhd143@gmail.com
+DOB: 2003-11-30
+Address: kottaramthuruthu perumathura, Thiruvananthapuram, Kerala, India - 695303
+Phone: 8136872572
+Join Date: 2025-06-03
+Linked User: 3165
+
+========== CUSTOMER DELETION LOG (2025-07-07 09:52:27) ==========
+Customer ID: 6601971
+Name: Albert singh
+Email: Albertsingh21382@gmail.com
+DOB: 1982-03-21
+Address: Swamiyarmadam, Thiruvananthapuram, Kerala, India - 695614
+Phone: 9489215971
+Join Date: 2025-07-07
+Linked User: 3761
+
+========== CUSTOMER DELETION LOG (2025-07-07 09:53:07) ==========
+Customer ID: 7826948
+Name: Albert Singh
+Email: albertsingh21382@gmail.com
+DOB: 1982-03-21
+Address: Swamiyarmadam, Thiruvananthapuram, Kerala, India - 695582
+Phone: 9489215971
+Join Date: 2025-07-07
+Linked User: 3760
+
+========== CUSTOMER DELETION LOG (2025-07-08 11:31:03) ==========
+Customer ID: 6719619
+Name: Vandana venugopal
+Email: vandanavenugopal66@gmail.com
+DOB: 1996-08-10
+Address: Njarakkal Thazhathil Veedu, Perayam Mulavana PO, Kollam, Kerala, India - 691503
+Phone: 7559909615
+Join Date: 2025-07-02
+Linked User: 3694
+
+========== CUSTOMER DELETION LOG (2025-07-08 11:33:14) ==========
+Customer ID: 3767597
+Name: Vandana venugopal
+Email: vandanavenugopal66@gmail.com
+DOB: 1996-08-10
+Address: Njarakkal Thazhathil Veedu, Perayam Mulavana PO, Kollam, Kerela, India - 691503
+Phone: 7559909615
+Join Date: 2025-07-08
+Linked User: 3769
+
+========== CUSTOMER DELETION LOG (2025-07-08 11:40:15) ==========
+Customer ID: 3280626
+Name: Lethika S Venugopal
+Email: vnetzsolutions@gmail.com
+DOB: 1956-11-10
+Address: njarakkal THazhathil veedu perayam mulavana PO, Kollam, Kerela, India - 691503
+Phone: 9496756784
+Join Date: 2025-07-08
+Linked User: 3767
+
+========== CUSTOMER DELETION LOG (2025-07-08 12:02:57) ==========
+Customer ID: 9430628
+Name: Lethika S Venugopal
+Email: vnetzsolution@gmail.com
+DOB: 1956-11-10
+Address: Njarakkal Thazhathil Veedu Perayam Mulavana PO Kundara Kollam, Kollam, Kerela, India - 691503
+Phone: 9496756784
+Join Date: 2025-07-08
+Linked User: 3770
+
+========== CUSTOMER DELETION LOG (2025-07-09 05:24:42) ==========
+Customer ID: 9098682
+Name: Sikander Badhusha
+Email: sinkanderbadhusha1@gmail.com
+DOB: 1983-05-04
+Address: Mariyam villa, Kollam, Kerela, India - 691303
+Phone: 9142681350
+Join Date: 2025-07-05
+Linked User: 3718
+
+========== CUSTOMER DELETION LOG (2025-07-09 05:33:11) ==========
+Customer ID: 5958158
+Name: sikkanderbadhusha
+Email: sikanderbadusha1@gmail.com
+DOB: 1983-05-04
+Address: maryam villa,mayyanadu,kollam, Kollam, Kerala, India - 691013
+Phone: 9142681350
+Join Date: 2025-07-05
+Linked User: 3737
+
+========== CUSTOMER DELETION LOG (2025-07-11 08:07:46) ==========
+Customer ID: 7232906
+Name: Reena N A
+Email: reejabinu2016@gmail.com
+DOB: 1991-04-28
+Address: Ammaveedu Alayathazha,chekkakonam karakulam, Thiruvananthapuram, Kerela, India - 695564
+Phone: 8281385755
+Join Date: 2025-07-11
+Linked User: 3844
+
+========== CUSTOMER DELETION LOG (2025-07-16 11:57:50) ==========
+Customer ID: 4246916
+Name: james Gabriyel
+Email: jamesgabriyel09@gmail.com
+DOB: 2005-05-02
+Address: snehallayam monvila kullathoor po, Thiruvananthapuram, Kerala, India - 695583
+Phone: 7012454998
+Join Date: 2025-07-16
+Linked User: 3897
+
+========== CUSTOMER DELETION LOG (2025-07-16 12:01:00) ==========
+Customer ID: 6749957
+Name: James Gabriyel
+Email: jamesgabriely09@gmail.com
+DOB: 2005-05-26
+Address: Snehallayam monvila kulathoor, Thiruvananthapuram, Kerela, India - 695583
+Phone: 7012454998
+Join Date: 2025-07-11
+Linked User: 3846
+
+========== CUSTOMER DELETION LOG (2025-07-18 08:59:22) ==========
+Customer ID: 4071517
+Name: Nissar
+Email: nissarattingal2@gmail.com
+DOB: 1971-05-18
+Address: Nizar Manzil, Attingal, Kerala, India - 695104
+Phone: 9072929290
+Join Date: 2025-07-16
+Linked User: 3894
+
+========== CUSTOMER DELETION LOG (2025-07-24 04:46:45) ==========
+Customer ID: 1236962
+Name: Habeeb
+Email: Habeebthaj01@gmail.com
+DOB: 1972-02-17
+Address: Kappithottam house, Kollam, Kerala, India - 691008
+Phone: 9847305393
+Join Date: 2025-07-24
+Linked User: 4182
+
+========== CUSTOMER DELETION LOG (2025-07-24 04:52:23) ==========
+Customer ID: 5878242
+Name: Habeeb
+Email: habeebthaj01@gmail.com
+DOB: 1972-02-17
+Address: Kappithottam House kadappakada po kollam, Kollam, Kerela, India - 691008
+Phone: 9847305393
+Join Date: 2025-07-24
+Linked User: 4183
+
+========== CUSTOMER DELETION LOG (2025-07-24 10:07:21) ==========
+Customer ID: 5231618
+Name: Syam suresh. S
+Email: Fortunersyam@gmail.com
+DOB: 1996-04-13
+Address: Syam Nivas valiyakalungu parandode p.o, Thiruvananthapuram, Kerela, India - 695542
+Phone: 8590969873
+Join Date: 2025-07-10
+Linked User: 3830

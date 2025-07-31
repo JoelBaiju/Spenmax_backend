@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  backend:
+    image: kriyo-back:latest
+    ports:
+      - 8001:8001
+    restart: always
+    depends_on:
+      - db
+      - redis
+
+  db:
+    image: mysql:8.0
+    environment:
+      MYSQL_DATABASE: kriyo
+      MYSQL_USER: richin
+      MYSQL_PASSWORD: richin_innovations
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  redis:
+    image: redis:6.0.9
+    volumes:
+      - redis_data:/data
+
+volumes:
+  mysql_data:
+  redis_data:
